@@ -1,0 +1,14 @@
+https://www.unicode.org/faq/utf_bom.html
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+https://stackoverflow.com/questions/19212306/whats-the-difference-between-ascii-and-unicode
+https://blog.sanctum.geek.nz/special-characters-in-vim/
+https://vi.stackexchange.com/questions/46085/how-to-make-vim-highlight-the-content-of-a-markdown-code-span-or-code-block
+https://stackoverflow.com/questions/584507/what-is-the-purpose-of-null
+https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+https://www.reddit.com/r/AskComputerScience/comments/bhgtzp/why_did_tony_hoare_apologize_for_inventing_the/?sort=old
+https://www.quora.com/Why-was-the-Null-Pointer-Exception-in-Java-called-a-billion-dollar-mistake
+https://vi.stackexchange.com/questions/17323/specify-utf-8-encoding-in-vimrc
+https://www.reddit.com/r/vim/comments/fvm0v0/why_is_vim_not_using_utf8_as_character_encoding/?sort=old
+https://github.com/frictionlessdata/datapackage/issues/613
+https://stackoverflow.com/questions/2223882/whats-the-difference-between-utf-8-and-utf-8-with-bom
+https://thoughtbot.com/blog/improving-user-experience-with-shell-scripts

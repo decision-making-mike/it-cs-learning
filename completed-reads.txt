@@ -21,3 +21,16 @@ https://forum.maboxlinux.org/t/is-openbox-the-future/1476/17
 https://m.slashdot.org/story/438477
 https://m.slashdot.org/story/432648
 https://unifont.org/unicodeprimer/
+https://stackoverflow.com/questions/643694/what-is-the-difference-between-utf-8-and-unicode
+https://vi.stackexchange.com/questions/177/what-is-the-purpose-of-swap-files
+https://news.ycombinator.com/item?id=15324883
+https://fmworldcup.com/microsoft-excel-world-championship/
+https://m.youtube.com/watch?v=HudIQFHHHuQ
+https://stackoverflow.com/questions/15639511/vim-show-newline-at-the-end-of-file
+https://slashdot.org/comments.pl?sid=165492&cid=13808398
+https://stackoverflow.com/questions/16222530/why-do-i-need-vim-in-binary-mode-for-noeol-to-work
+https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg?pli=1
+https://stackoverflow.com/questions/57504705/why-process-substitution-with-binary-doesnt-work
+https://www.youtube.com/watch?app=desktop&v=q03btespaTw
+https://www.brianstorti.com/vim-registers/
+http://www.viemu.com/a-why-vi-vim.html
